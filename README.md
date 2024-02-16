@@ -9,6 +9,8 @@
 
 ⚡ Fun fact: I can speak 5 languages!
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeeptha-NotABot)](https://github.com/Sandeeptha-NotABot/github-readme-stats)
+
 
 <!--
 **Sandeeptha-NotAbot/Sandeeptha-NotAbot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,4 +1,10 @@
 ### Hi there 👋
+🌱 I’m currently learning Assembly level programming and web development
+🔭 I’m currently working on Software Development in Embedded systems!
+📫 How to reach me: sandee13@iastate.edu
+😄 Pronouns: she/her
+⚡ Fun fact: I can speak 5 languages!
+
 
 <!--
 **Sandeeptha-NotAbot/Sandeeptha-NotAbot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,14 +1,14 @@
 [![MasterHead](header.png)](https://github.com/Sandeeptha-NotAbot)
  
-🌱 I’m currently learning Assembly level programming and web development
+🌱 I’m currently pursuing Computer Engineering at Iowa State University
 
-🔭 I’m currently working on Software Development in Embedded systems!
+🔭 I’m currently working on Frontend Development
 
 📫 How to reach me: sandee13@iastate.edu
 
 😄 Pronouns: she/her
 
-⚡ Fun fact: I can speak 5 languages!
+⚡ Fun fact: I can speak 5 languages and identify snakes!
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>

@@ -1,12 +1,12 @@
 [![MasterHead](header.png)](https://github.com/Sandeeptha-NotAbot)
  
-🌱 I’m currently pursuing Computer Engineering at Iowa State University
+📚 I’m currently pursuing Computer Engineering at Iowa State University
 
-🔭 I’m currently working on Frontend Development
+🏎️ I’m currently working on Frontend Development
 
 📫 How to reach me: sandee13@iastate.edu
 
-😄 Pronouns: she/her
+👩🏻‍🎓 Pronouns: she/her
 
 ⚡ Fun fact: I can speak 5 languages and identify snakes!
 

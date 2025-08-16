@@ -10,20 +10,13 @@
 
 ⚡ Fun fact: I can speak 5 languages and identify snakes!
 
-### 🚀 Skills  
+<div align="center">
 
-### 💻 Programming
-[![Prog](https://skillicons.dev/icons?i=c,cpp,java,python,js&perline=10&theme=dark)](https://skillicons.dev)
+### 🛠️ Technical Skills  
 
-### 🌐 Web & UI
-[![Web](https://skillicons.dev/icons?i=react,html,css,tailwind&perline=10&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=java,kotlin,python,c,cpp,js,react,html,css,tailwind,nodejs,mysql,mongodb,sqlite,git,github,docker,linux,azure,powershell,vscode,raspberrypi,arduino&perline=8&theme=dark)](https://skillicons.dev)
 
-### ⚙️ Systems & Tools
-[![Sys](https://skillicons.dev/icons?i=linux,git,github,docker,vscode&perline=10&theme=dark)](https://skillicons.dev)
-
-### 🗄️ Databases
-[![DB](https://skillicons.dev/icons?i=mysql,mongodb,sqlite&perline=10&theme=dark)](https://skillicons.dev)
-
+</div>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeeptha-NotABot)](https://github.com/Sandeeptha-NotABot/github-readme-stats)

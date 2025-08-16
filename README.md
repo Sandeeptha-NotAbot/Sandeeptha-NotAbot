@@ -10,6 +10,8 @@
 
 ⚡ Fun fact: I can speak 5 languages and identify snakes!
 
+### 🚀 Skills  
+
 ### 💻 Programming
 [![Prog](https://skillicons.dev/icons?i=c,cpp,java,python,js&perline=10&theme=dark)](https://skillicons.dev)
 

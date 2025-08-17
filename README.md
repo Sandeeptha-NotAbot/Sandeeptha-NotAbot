@@ -27,7 +27,6 @@
 ![MIPS Assembly](https://img.shields.io/badge/MIPS%20Assembly-00427E?style=for-the-badge&logoColor=white)
 ![VHDL](https://img.shields.io/badge/VHDL-512BD4?style=for-the-badge&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![FastF1 API](https://img.shields.io/badge/FastF1%20API-F05454?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 

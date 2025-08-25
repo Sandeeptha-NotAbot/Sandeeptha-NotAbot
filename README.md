@@ -8,7 +8,7 @@
 
 👩🏻‍🎓 Pronouns: she/her
 
-⚡ Fun fact: I can speak 5 languages and identify snakes!
+⚡ Fun fact: I can speak 4 languages and identify snakes!
 
 ## 🛠️ Technical Skills  
 

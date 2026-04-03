@@ -1,4 +1,6 @@
 [![MasterHead](header.png)](https://github.com/Sandeeptha-NotAbot)
+
+![F1 Car](https://media.tenor.com/HAQL59Z7D_wAAAAi/formula-racing.gif)
  
 📚 I’m currently pursuing Computer Engineering at Iowa State University
 

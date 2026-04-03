@@ -1,6 +1,7 @@
-[![MasterHead](header.png)](https://github.com/Sandeeptha-NotAbot)
-
-![F1 Car](https://media.tenor.com/HAQL59Z7D_wAAAAi/formula-racing.gif)
+<div style="background-color:#7dd8e8; padding: 40px; border-radius: 10px;">
+  <h1>Hi 👋, I'm Sandee</h1>
+  <img src="https://media.tenor.com/HAQL59Z7D_wAAAAi/formula-racing.gif" width="400"/>
+</div>
  
 📚 I’m currently pursuing Computer Engineering at Iowa State University
 
